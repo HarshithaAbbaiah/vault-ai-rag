@@ -69,14 +69,17 @@ streamlit run app.py
 
 
 
-# Demo_Screenshot
+## Demo_Screenshot
 
 <img width="1908" height="958" alt="demo_screenshot" src="https://github.com/user-attachments/assets/e69522be-f8e6-4787-a05c-858ee46fe816" />
 
 
 
 
-**CREATED BY:**
 
+
+
+
+**CREATED BY:**
         Harshitha A | [LinkedIn](https://www.linkedin.com/in/harshitha-abbaiah/)
 
