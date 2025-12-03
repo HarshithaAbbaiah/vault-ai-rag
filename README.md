@@ -76,6 +76,7 @@ streamlit run app.py
 
 
 
-**CREATED BY**
+**CREATED BY:**
+
         Harshitha A | [LinkedIn](https://www.linkedin.com/in/harshitha-abbaiah/)
 
