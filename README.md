@@ -9,7 +9,7 @@
 
 
 
-## 🌟 The STAR Breakdown (Project Summary)
+## 🌟 Project Overview
 
 ### The Problem
 Enterprises sit on mountains of valuable internal data (contracts, policies, technical manuals) but are blocked from using modern Generative AI tools like ChatGPT due to severe **data privacy risks**. Uploading sensitive corporate IP to public cloud models violates compliance standards (GDPR, HIPAA, SOC2), leaving employees to manually search through thousands of PDF pages.
